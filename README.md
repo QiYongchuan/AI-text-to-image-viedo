@@ -42,6 +42,10 @@ GitHub：https://github.com/InstantID/InstantID
 **
 让视频的角色按照想要的动作动起来**
 
+### DreaMoving: A Human Video Generation Framework based on Diffusion Models  阿里巴巴
+https://dreamoving.github.io/dreamoving/
+体验地址：https://www.modelscope.cn/studios/vigen/video_generation/summary/
+![image](https://github.com/QiYongchuan/AI-text-to-image-viedo/assets/105039020/ed264cb1-60be-47a5-9bfb-77a427a8f042)
 
 
 
